@@ -1,4 +1,4 @@
-[Uploading<meta name='viewport' content='width=device-width, initial-scale=1'/><!DOCTYPE html>
+[<meta name='viewport' content='width=device-width, initial-scale=1'/><!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -1389,4 +1389,4 @@ window.onload = () => {
     // Deshabilitar la opción "Mostrar Respuesta" al cargar la página
     showAnswerBtn.classList.add('disabled-option');
 };
-</script> 🤣🤣🤣.html…]()
+</script>]
